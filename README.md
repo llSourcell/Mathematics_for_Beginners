@@ -28,6 +28,8 @@ This is the collection of formula sheets for [this](https://youtu.be/sb_FI7nt4yk
 - [Number Theory](https://www.docdroid.net/rAbDvxF/number-theory-cheatsheet.pdf)
 - [Geometry](http://mdk12.msde.maryland.gov/instruction/curriculum/hsa/geometry/math_reference_sheet.html) 
 - [Logic](http://www.pitt.edu/~woon/courses/ps2703_logic.pdf) 
+- [Combinatorics](http://www.baskent.edu.tr/~tkaracay/etudio/ders/math/GenelMath/Combinatorics.pdf) 
+- [Differential Equations](http://furius.ca/cqfpub/doc/diffequs/diffequs.pdf)
 
 Am i missing a math topic? Find a cheatsheet, make a PR, i'll accept it. Just google "(Your subject) cheat sheet"
 
