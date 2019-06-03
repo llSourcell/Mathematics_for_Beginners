@@ -30,3 +30,10 @@ This is the collection of formula sheets for [this](https://youtu.be/sb_FI7nt4yk
 - [Logic](http://www.pitt.edu/~woon/courses/ps2703_logic.pdf) 
 
 Am i missing a math topic? Find a cheatsheet, make a PR, i'll accept it. Just google "(Your subject) cheat sheet"
+
+## Math to Code translation tools
+
+- [WolframAlpha](https://www.wolframalpha.com/)
+- [Image to Latex converter](https://github.com/yixuanzhou/image2latex) 
+- [Latex to Python converter](https://github.com/augustt198/latex2sympy) 
+
