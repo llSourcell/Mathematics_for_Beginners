@@ -19,10 +19,14 @@ This is the collection of formula sheets for [this](https://youtu.be/sb_FI7nt4yk
 ### 10- Explain it
 
 
-
 ## Formula Sheets
 
 - [Statistics](http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf)
 - [Probability](https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)
 - [Calculus](http://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf)
 - [Linear Algebra](https://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf)
+- [Number Theory](https://www.docdroid.net/rAbDvxF/number-theory-cheatsheet.pdf)
+- [Geometry](http://mdk12.msde.maryland.gov/instruction/curriculum/hsa/geometry/math_reference_sheet.html) 
+- [Logic](http://www.pitt.edu/~woon/courses/ps2703_logic.pdf) 
+
+Am i missing a math topic? Find a cheatsheet, make a PR, i'll accept it. Just google "(Your subject) cheat sheet"
