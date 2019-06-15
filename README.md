@@ -39,3 +39,7 @@ Am i missing a math topic? Find a cheatsheet, make a PR, i'll accept it. Just go
 - [Image to Latex converter](https://github.com/yixuanzhou/image2latex) 
 - [Latex to Python converter](https://github.com/augustt198/latex2sympy) 
 
+
+## Free open books
+
+- [Discrete Mathematics](http://discrete.openmathbooks.org/dmoi3.html)
